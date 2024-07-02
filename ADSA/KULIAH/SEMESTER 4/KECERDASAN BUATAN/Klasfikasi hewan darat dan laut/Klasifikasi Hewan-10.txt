@@ -1,0 +1,1 @@
+{0: 'Anjing', 1: 'Ayam', 2: 'Bebek', 3: 'Bintang Laut', 4: 'Hiu', 5: 'Ikan', 6: 'Kucing', 7: 'Kuda Laut', 8: 'Macan', 9: 'Paus'}
